@@ -1,0 +1,10 @@
+table{
+    width:100%;
+    border-collapse: collapse;
+    font-family: Sans-Serif;
+}
+th,td{
+    border: 2px dotted red;
+    padding: 15px;
+
+}
